@@ -22,11 +22,11 @@ export BUCKET_NAME=qwiklabs-gcp-00-55a3ef2315e1
 ```
 gsutil mb gs://$BUCKET_NAME/
 ```
-![[attachments/2023-06-15-11.png]]
+![](attachments/2023-06-15-11.png)
 ## Task 2 DataFlow Run the pipeline
 ![](attachments/2023-06-15-12.png)
 
 after this run you will see your table `realtime` in BigQuery and you can send SQL to query data
-![[attachments/2023-06-15-13.png]]
+![](attachments/2023-06-15-13.png)
 
 
