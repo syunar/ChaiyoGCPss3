@@ -25,7 +25,7 @@ gsutil mb gs://$BUCKET_NAME/
 
 
 ## Task 2 DataFlow Run the pipeline
-![[Pasted image 20230615205202.png]]
+![[attachments/Pasted image 20230615205202.png]]
 
 after this run you will see your table `realtime` in BigQuery and you can send SQL to query data
-![[Pasted image 20230615210253.png]]
+![[attachments/Pasted image 20230615210253.png]]
