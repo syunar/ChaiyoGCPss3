@@ -23,7 +23,7 @@ export BUCKET_NAME=qwiklabs-gcp-00-55a3ef2315e1
 gsutil mb gs://$BUCKET_NAME/
 ```
 
-![[ChaiyoGCPss3/Q117_perform-foundational-data-ml-and-ai-tasks-in-google-cloud/attachments/20230615213106.png]]
+![[Q117_perform-foundational-data-ml-and-ai-tasks-in-google-cloud/attachments/20230615213106.png]]
 ## Task 2 DataFlow Run the pipeline
 ![[attachments/Pasted image 20230615205202.png]]
 
