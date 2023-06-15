@@ -11,14 +11,14 @@
 ![](attachments/2023-06-15-5.png)
 
 ## Task 3. View the job output
-![][attachments/2023-06-15-6.png]
+![](attachments/2023-06-15-6.png)
 
-![][attachments/2023-06-15-7.png]
-![][attachments/2023-06-15-8.png]
+![](attachments/2023-06-15-7.png)
+![](attachments/2023-06-15-8.png)
 #❓ what `job` run acually do ?
 
 
-![][attachments/2023-06-15-9.png]
+![](attachments/2023-06-15-9.png)
 
 1 cluster can run multi jobs
-![][attachments/2023-06-15-10.png]
+![](attachments/2023-06-15-10.png)
